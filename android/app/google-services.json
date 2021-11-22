@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "10221928344",
+    "project_id": "travel-tube-285712",
+    "storage_bucket": "travel-tube-285712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10221928344:android:4b87a95fe87b759b2835ed",
+        "android_client_info": {
+          "package_name": "com.traveltube.order_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10221928344-bli4gbr3m405c2a96k1m5ubi5cqio8vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.traveltube.order_tracker",
+            "certificate_hash": "4662f3844653dc0c068a03bd6c9edcd9a06c36f4"
+          }
+        },
+        {
+          "client_id": "10221928344-83btg9kj8l5vmgv8eeetnfpvr75vp52a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_-ImPpLSro6PAwizWIS9PSgfp8nYpAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10221928344-83btg9kj8l5vmgv8eeetnfpvr75vp52a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10221928344:android:ab116f3fbb0da2b72835ed",
+        "android_client_info": {
+          "package_name": "com.traveltube.tclubmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10221928344-83btg9kj8l5vmgv8eeetnfpvr75vp52a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_-ImPpLSro6PAwizWIS9PSgfp8nYpAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10221928344-83btg9kj8l5vmgv8eeetnfpvr75vp52a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10221928344:android:75fee640b8ca666d2835ed",
+        "android_client_info": {
+          "package_name": "com.traveltube.tcourier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10221928344-83btg9kj8l5vmgv8eeetnfpvr75vp52a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_-ImPpLSro6PAwizWIS9PSgfp8nYpAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10221928344-83btg9kj8l5vmgv8eeetnfpvr75vp52a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
